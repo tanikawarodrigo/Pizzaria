@@ -1,0 +1,48 @@
+.list-produto{
+    list-style-type: none;
+}
+
+.link-esvaziar-cart{
+    font-size: 12px;
+    text-decoration: underline !important;
+    cursor: pointer;
+}
+
+p{
+    font-size: 12px;
+}
+
+h1{
+    font-size: 24px;
+    margin: 0;
+}
+
+.div-header-cart{
+    text-align: center;
+    padding: 20px;
+}
+
+a{
+    font-size: 14px;
+    color: #000;
+    text-decoration: none;
+}
+.link-preco{
+    padding-right: 15px;
+}
+
+.link-icon-x{
+    cursor: pointer;
+}
+
+.div-link-esvaziar-cart{
+    cursor: pointer;
+    padding-bottom: 15px;
+    padding-top:15px;
+}
+.div-entrega-preco-final{
+    padding-top: 15px;
+}
+p{
+    font-size: 16px;
+}

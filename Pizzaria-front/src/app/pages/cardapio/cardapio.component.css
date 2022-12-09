@@ -1,0 +1,33 @@
+@media (max-width: 990px) {
+    mat-sidenav{display: none;}
+    .btn-ver-carrinho{
+        display: block !important;
+        background-color: #73A416;
+    }
+ }
+
+mat-sidenav{
+    width:349px;
+    position: fixed;
+    height: 100%vh;
+}
+
+.btn-ver-carrinho{
+    display: none;
+}
+
+.div-btn-ver-carrinho{
+    padding-left: 20%;
+    padding-right: 20%;
+    padding: 20px;
+}
+
+.cart-footer{
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+}
+
+.cart-item{
+    
+}

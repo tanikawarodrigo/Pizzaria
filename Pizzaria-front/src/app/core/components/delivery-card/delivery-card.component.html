@@ -1,0 +1,28 @@
+<mat-card class="example-card">
+  <mat-card-header>
+    <mat-card-title>Onde você quer a sua pizza?</mat-card-title>
+    <mat-card-subtitle
+      >Insira o seu CEP para encontrarmos a loja mais próxima de
+      você.</mat-card-subtitle
+    >
+  </mat-card-header>
+  <mat-card-content>
+    <form class="example-form">
+      <div>
+        <mat-form-field class="example-full-width">
+          <mat-label>CEP</mat-label>
+          <input matInput #cep maxlength="8" type="number-only" />
+        </mat-form-field>
+      </div>
+      <div>
+        <mat-form-field class="example-full-width">
+          <mat-label>Informe o número da casa/prédio</mat-label>
+          <input matInput maxlength="8" />
+        </mat-form-field>
+      </div>
+    </form>
+  </mat-card-content>
+  <mat-card-actions>
+    <button mat-button>BUSCAR</button>
+  </mat-card-actions>
+</mat-card>

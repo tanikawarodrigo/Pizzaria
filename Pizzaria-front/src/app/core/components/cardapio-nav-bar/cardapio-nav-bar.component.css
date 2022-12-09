@@ -1,0 +1,12 @@
+.tool-bar-top{
+    background-color: #ED1B24;
+    max-width: 100%;
+}
+
+.logo_img{
+    height: 50px;
+}
+
+mat-tab{
+    height: 500px;
+}

@@ -1,0 +1,26 @@
+@media (max-width: 990px) {
+    button{
+        display: none;
+    }
+ }
+.logo_img{
+    height: 50px;
+}
+
+.btn-register, .btn-login{
+    background-color: #fff;
+}
+
+.tool-bar{
+    background-color: #ED1B24;
+    max-width: 100%;
+}
+
+.div-login, .div-register{
+    padding-right: 20px;
+}
+
+i{
+    width: 20px;
+    height: 15px;
+}
