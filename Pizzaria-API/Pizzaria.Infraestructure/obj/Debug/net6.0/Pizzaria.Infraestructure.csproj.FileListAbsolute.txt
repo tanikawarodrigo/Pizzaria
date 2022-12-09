@@ -1,0 +1,12 @@
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Infraestructure\bin\Debug\net6.0\Pizzaria.Infraestructure.deps.json
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Infraestructure\bin\Debug\net6.0\Pizzaria.Infraestructure.dll
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Infraestructure\bin\Debug\net6.0\Pizzaria.Infraestructure.pdb
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Infraestructure\obj\Debug\net6.0\Pizzaria.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Infraestructure\obj\Debug\net6.0\Pizzaria.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Infraestructure\obj\Debug\net6.0\Pizzaria.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Infraestructure\obj\Debug\net6.0\Pizzaria.Infraestructure.AssemblyInfo.cs
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Infraestructure\obj\Debug\net6.0\Pizzaria.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Infraestructure\obj\Debug\net6.0\Pizzaria.Infraestructure.dll
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Infraestructure\obj\Debug\net6.0\refint\Pizzaria.Infraestructure.dll
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Infraestructure\obj\Debug\net6.0\Pizzaria.Infraestructure.pdb
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Infraestructure\obj\Debug\net6.0\ref\Pizzaria.Infraestructure.dll

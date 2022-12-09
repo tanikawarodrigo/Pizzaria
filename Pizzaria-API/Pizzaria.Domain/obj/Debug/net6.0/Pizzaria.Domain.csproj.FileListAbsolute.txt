@@ -1,0 +1,12 @@
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Domain\bin\Debug\net6.0\Pizzaria.Domain.deps.json
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Domain\bin\Debug\net6.0\Pizzaria.Domain.dll
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Domain\bin\Debug\net6.0\Pizzaria.Domain.pdb
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Domain\obj\Debug\net6.0\Pizzaria.Domain.csproj.AssemblyReference.cache
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Domain\obj\Debug\net6.0\Pizzaria.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Domain\obj\Debug\net6.0\Pizzaria.Domain.AssemblyInfoInputs.cache
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Domain\obj\Debug\net6.0\Pizzaria.Domain.AssemblyInfo.cs
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Domain\obj\Debug\net6.0\Pizzaria.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Domain\obj\Debug\net6.0\Pizzaria.Domain.dll
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Domain\obj\Debug\net6.0\refint\Pizzaria.Domain.dll
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Domain\obj\Debug\net6.0\Pizzaria.Domain.pdb
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Domain\obj\Debug\net6.0\ref\Pizzaria.Domain.dll

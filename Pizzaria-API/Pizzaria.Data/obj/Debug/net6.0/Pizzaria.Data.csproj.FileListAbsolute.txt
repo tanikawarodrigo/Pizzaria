@@ -1,0 +1,17 @@
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\bin\Debug\net6.0\Pizzaria.Data.deps.json
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\bin\Debug\net6.0\Pizzaria.Data.dll
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\bin\Debug\net6.0\Pizzaria.Data.pdb
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\bin\Debug\net6.0\Pizzaria.Domain.dll
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\bin\Debug\net6.0\Pizzaria.Infraestructure.dll
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\bin\Debug\net6.0\Pizzaria.Domain.pdb
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\bin\Debug\net6.0\Pizzaria.Infraestructure.pdb
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\obj\Debug\net6.0\Pizzaria.Data.csproj.AssemblyReference.cache
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\obj\Debug\net6.0\Pizzaria.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\obj\Debug\net6.0\Pizzaria.Data.AssemblyInfoInputs.cache
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\obj\Debug\net6.0\Pizzaria.Data.AssemblyInfo.cs
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\obj\Debug\net6.0\Pizzaria.Data.csproj.CoreCompileInputs.cache
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\obj\Debug\net6.0\Pizzaria.Data.csproj.CopyComplete
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\obj\Debug\net6.0\Pizzaria.Data.dll
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\obj\Debug\net6.0\refint\Pizzaria.Data.dll
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\obj\Debug\net6.0\Pizzaria.Data.pdb
+C:\Users\rodri\poc-back-repo\Pizzaria-API\Pizzaria.Data\obj\Debug\net6.0\ref\Pizzaria.Data.dll
